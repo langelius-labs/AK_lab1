@@ -18,3 +18,20 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+/*
+ * l
+ * a
+ * b
+ * 1
+ *
+ * H
+ * u
+ * t
+ * s
+ * a
+ * l
+ * i
+ * u
+ * k
+ * 
+ */
